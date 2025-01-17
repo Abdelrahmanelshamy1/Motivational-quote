@@ -1,0 +1,39 @@
+html{
+    background:black;
+  }
+
+  img{
+    height:100%;
+    width:100%;
+    align-items: center;
+  }
+
+  .quote{
+    text-align: center;
+    color:white;
+    font-family:"Libre Baskerville", serif;
+    text-transform: uppercase;
+  }
+
+  #p{
+    text-transform:capitalize;
+  }
+  
+  #div1{
+    border:5px solid white;
+    margin-top:3%;
+    margin-left: 20%;
+    margin-right: 20%;
+    height:500px;
+  }
+
+  #div2{
+    margin-bottom: 20%;
+  }
+  #quote{
+    margin-bottom: 0px;
+  }
+  #otherhalf{
+    margin-bottom: 0px;
+  }
+
